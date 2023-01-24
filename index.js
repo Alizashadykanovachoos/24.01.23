@@ -47,6 +47,14 @@ let a1 = 5;
 let b2 = 6;
   
 
+ let number = -3;
+ if (number > 8){
+  console.log("число" + number + "отрицательное")
+ }
+
+ else if (number < 0){
+  console.log("число" + number + "отрицательное")
+ }
 
 
 
